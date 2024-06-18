@@ -1,4 +1,4 @@
- --------TWO METHODS OF MERGE---------
+                       --------TWO METHODS OF MERGE---------
 
                  ''''''''' From local GIT /From Terminal '''''''''
 
